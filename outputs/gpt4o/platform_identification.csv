@@ -1,0 +1,27 @@
+model,channel,task,label,tp,fp,fn,precision,recall,f1,support
+gpt4o,FOX News,logo,discord,2,0,1,1.0,0.6667,0.8,3
+gpt4o,FOX News,logo,facebook,31,21,2,0.5962,0.9394,0.7294,33
+gpt4o,FOX News,logo,instagram,44,12,15,0.7857,0.7458,0.7652,59
+gpt4o,FOX News,logo,linkedin,2,0,0,1.0,1.0,1.0,2
+gpt4o,FOX News,logo,meta,0,0,2,0.0,0.0,0.0,2
+gpt4o,FOX News,logo,parler,33,4,1,0.8919,0.9706,0.9296,34
+gpt4o,FOX News,logo,pinterest,2,0,2,1.0,0.5,0.6667,4
+gpt4o,FOX News,logo,rumble,3,1,0,0.75,1.0,0.8571,3
+gpt4o,FOX News,logo,snapchat,3,2,0,0.6,1.0,0.75,3
+gpt4o,FOX News,logo,tiktok,43,44,2,0.4943,0.9556,0.6515,45
+gpt4o,FOX News,logo,truth social,1,0,0,1.0,1.0,1.0,1
+gpt4o,FOX News,logo,twitter,54,15,27,0.7826,0.6667,0.72,81
+gpt4o,FOX News,logo,twitter (x),23,14,7,0.6216,0.7667,0.6866,30
+gpt4o,FOX News,logo,youtube,2,32,0,0.0588,1.0,0.1111,2
+gpt4o,FOX News,logo,unidentified,0,0,0,0.0,0.0,0.0,0
+gpt4o,FOX News,logo,micro,243,145,59,0.6263,0.8046,0.7043,302
+gpt4o,FOX News,screenshot,facebook,0,1,0,0.0,0.0,0.0,0
+gpt4o,FOX News,screenshot,instagram,1,10,0,0.0909,1.0,0.1667,1
+gpt4o,FOX News,screenshot,parler,0,12,0,0.0,0.0,0.0,0
+gpt4o,FOX News,screenshot,tiktok,0,96,0,0.0,0.0,0.0,0
+gpt4o,FOX News,screenshot,truth social,1,0,0,1.0,1.0,1.0,1
+gpt4o,FOX News,screenshot,twitter,33,10,0,0.7674,1.0,0.8684,33
+gpt4o,FOX News,screenshot,twitter (x),5,0,3,1.0,0.625,0.7692,8
+gpt4o,FOX News,screenshot,youtube,0,1,0,0.0,0.0,0.0,0
+gpt4o,FOX News,screenshot,unidentified,0,1,0,0.0,0.0,0.0,0
+gpt4o,FOX News,screenshot,micro,40,131,3,0.2339,0.9302,0.3738,43

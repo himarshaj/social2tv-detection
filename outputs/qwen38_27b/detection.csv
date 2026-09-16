@@ -1,0 +1,3 @@
+model,channel,task,n,tp,fp,fn,tn,accuracy,precision,recall,f1
+qwen38_27b,FOX News,logo,23095,133,26,95,22841,0.9948,0.8365,0.5833,0.6873
+qwen38_27b,FOX News,screenshot,23095,38,1,4,23052,0.9998,0.9744,0.9048,0.9383

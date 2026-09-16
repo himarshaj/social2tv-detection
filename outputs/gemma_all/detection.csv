@@ -1,0 +1,7 @@
+model,channel,task,n,tp,fp,fn,tn,accuracy,precision,recall,f1
+gemma_all,CNN,logo,32639,118,33,51,32437,0.9974,0.7815,0.6982,0.7375
+gemma_all,CNN,screenshot,32639,114,52,60,32413,0.9966,0.6867,0.6552,0.6706
+gemma_all,FOX News,logo,54300,637,169,73,53421,0.9955,0.7903,0.8972,0.8404
+gemma_all,FOX News,screenshot,54300,294,74,243,53689,0.9942,0.7989,0.5475,0.6497
+gemma_all,MSNBC,logo,43149,437,13,125,42574,0.9968,0.9711,0.7776,0.8636
+gemma_all,MSNBC,screenshot,43149,282,24,30,42813,0.9987,0.9216,0.9038,0.9126
